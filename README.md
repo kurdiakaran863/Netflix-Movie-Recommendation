@@ -14,8 +14,8 @@ Data : It contains the main data that the cleaning was done on<br/>
 Data Preprocessing :  This notebook, consists of dat cleaning, data preprocessing, NLP logic, topic modelling and the recommendation system function
 
 ## Summary:
--The alogorithm recommends movies to users based on a selected movie<br/>
--The recommender system works well in mapping the similarity between the selected movie and the movies that can be recommended.
+-The algorithm recommends movies to users based on a selected movie<br/>
+-The recommender system works well in mapping the similar text features of the selected movie, with the movies that can be recommended.
 
 
 
